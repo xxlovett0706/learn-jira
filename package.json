@@ -8,6 +8,7 @@
     "json-server": "json-server --watch --port 3001 __json_server_mock__/db.json"
   },
   "dependencies": {
+    "qs": "^6.10.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
